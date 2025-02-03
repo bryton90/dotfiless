@@ -1,8 +1,11 @@
 #! /bin/bash
 
-DOTFILES=(.gitconfig .zshrc)
+DOTFILES = (.gitconfig .zshrc)
 
-for dotfile in $(echo ${DOTFILES[*]});
+for dotfiles in $(echo ${DOTFILES[*]});
+
 do
-    cp ~/dotfiles/$(echo $dotfile) ~/$(echo $dotfile)
+    cp ~/dotfiles/$(echo $dotfiles) ~/$(echo $dotfiles)
+
 done
+```
