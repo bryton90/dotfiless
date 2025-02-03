@@ -1,4 +1,4 @@
-theme = vesper
+theme = dark diffult
 keybind = global:cmd+alt+enter=toggle_quick_terminal
 macos-icon = "custom-style"
 macos-icon-frame = "plastic"
