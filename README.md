@@ -1,7 +1,8 @@
-Dotfiles and Configurations
+# Dotfiles and Configurations #
+
 This repository contains my personal dotfiles and configuration files, which are used to set up and customize my development and setup environment. These files help maintain consistency across different machines and streamline the setup process.
 
-Table of Contents
+##Table of Contents##
 Installation
 Files Included
 Usage
